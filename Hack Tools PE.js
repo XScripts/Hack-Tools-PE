@@ -19,7 +19,7 @@ var Gravity = android.view.Gravity;
 var PopupWindow = android.widget.PopupWindow;
 var ColorDrawable = android.graphics.drawable.ColorDrawable;
 
-var VERSION = "0.2.8";
+var VERSION = "0.3.0";
 var NAME = "Hack Tools PE";
 var DEVELOPER = "XScripts";
 
